@@ -21,23 +21,7 @@ public class leetcode_Array {
         return ans;
     }
 
-    public static int reverse(int x) {
 
-        int i = 0;
-        int ans = 0;
-
-        while (x != 0) {
-            i = x % 10;
-            x /= 10;
-            if (ans > Integer.MAX_VALUE / 10 || (ans == Integer.MAX_VALUE / 10 && i > 7)) return 0;
-            if (ans < Integer.MIN_VALUE / 10 || (ans == Integer.MIN_VALUE / 10 && i < -8)) return 0;
-
-            ans = ans * 10 + i;
-        }
-        return ans;
-
-
-    }
 
     public boolean isPalindrome(int x) {
         //思考：这里大家可以思考一下，为什么末尾为 0 就可以直接返回 false
