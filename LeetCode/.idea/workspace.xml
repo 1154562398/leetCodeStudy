@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd786c08-3480-4a0b-a8f2-11561ce1bf14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation_Of_Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetcode_characterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode_characterString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,11 +33,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode_characterString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="457" column="8" lean-forward="true" selection-start-line="457" selection-start-column="8" selection-end-line="457" selection-end-column="36" />
+            <state relative-caret-position="499">
+              <caret line="749" column="9" lean-forward="true" selection-start-line="738" selection-start-column="7" selection-end-line="749" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Simulation_Of_Interview.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="100" column="21" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="100" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+                <element signature="e#1591#1592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,6 +91,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/leetcode.java" />
         <option value="$PROJECT_DIR$/src/leetcode_Array.java" />
+        <option value="$PROJECT_DIR$/src/Simulation_Of_Interview.java" />
         <option value="$PROJECT_DIR$/src/leetcode_characterString.java" />
       </list>
     </option>
@@ -70,7 +102,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="316" />
     <option name="y" value="436" />
     <option name="width" value="1400" />
@@ -82,7 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +131,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +159,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode_characterString">
+  <component name="RunManager" selected="Application.Simulation_Of_Interview">
+    <configuration name="Simulation_Of_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation_Of_Interview" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leetcode_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode_Array" />
       <module name="leetcode" />
@@ -144,6 +183,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulation_Of_Interview" />
         <item itemvalue="Application.leetcode_characterString" />
         <item itemvalue="Application.leetcode_Array" />
       </list>
@@ -174,11 +214,13 @@
       <workItem from="1567058726282" duration="613000" />
       <workItem from="1567061094897" duration="11329000" />
       <workItem from="1567127652626" duration="13395000" />
+      <workItem from="1567670861157" duration="5562000" />
+      <workItem from="1567735974522" duration="12046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87645000" />
+    <option name="totallyTimeSpent" value="105253000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,6 +233,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -198,10 +241,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.20842217" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21268657" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3177874" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3177874" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,10 +283,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Simulation_Of_Interview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="100" column="21" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="100" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_characterString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="457" column="8" lean-forward="true" selection-start-line="457" selection-start-column="8" selection-end-line="457" selection-end-column="36" />
+        <state relative-caret-position="499">
+          <caret line="749" column="9" lean-forward="true" selection-start-line="738" selection-start-column="7" selection-end-line="749" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
